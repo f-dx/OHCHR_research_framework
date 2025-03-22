@@ -1,4 +1,4 @@
-## Our Checklist
+## Our Checklist of 40 items against covert violence 
 
 #### [ ] The Targeted Individuals Phenomenon
 
