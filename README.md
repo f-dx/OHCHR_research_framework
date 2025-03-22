@@ -1,6 +1,6 @@
-Our Checklist
+## Our Checklist
 
-[ ] The Targeted Individuals Phenomenon
+#### [ ] The Targeted Individuals Phenomenon
 
 1. Identify and document all forms of the Targeted Individuals Phenomenon across different regions
 2. Develop comprehensive detection methods for identifying organized stalking activities
@@ -12,7 +12,7 @@ Our Checklist
 8. Establish legal frameworks that specifically address the Targeted Individuals Phenomenon
 9. Implement monitoring systems to ensure permanent cessation of these activities
 
-[ ] Organized stalking
+#### [ ] Organized stalking
 
 10. Map networks involved in organized stalking across different countries
 11. Develop technology to detect and counter electronic harassment methods
@@ -23,7 +23,7 @@ Our Checklist
 16. Establish international cooperation frameworks for addressing cross-border organized stalking
 17. Develop methods to trace financial flows supporting organized stalking networks
 
-[ ] Remote Neural Monitoring
+#### [ ] Remote Neural Monitoring
 
 18. Fund independent scientific research on Remote Neural Monitoring technologies
 19. Develop standardized testing protocols for detecting Remote Neural Monitoring
@@ -34,7 +34,7 @@ Our Checklist
 24. Establish licensing frameworks for legitimate neural monitoring technologies
 25. Create specialized courts for handling cases involving neural technology misuse
 
-[ ] Covert Tortures
+#### [ ] Covert Tortures
 
 26. Document and classify all known covert torture methodologies
 27. Develop detection systems for covert torture implementations
@@ -44,7 +44,7 @@ Our Checklist
 31. Establish secure reporting channels for victims of covert torture
 32. Develop forensic methods to prove the use of covert torture techniques
 
-[ ] Legal Prosecution
+#### [ ] Legal Prosecution
 
 33. Create specialized prosecution units for cases involving organized stalking and covert tortures
 34. Establish international legal frameworks for extradition related to these crimes
